@@ -2,8 +2,8 @@
 
 > Documentation for the Kodentuzo projects.
 
-Documentation for the Kodentuzo projects: how they fit together and the vocabulary they share.
-Nothing written yet.
+Only the [vocabulary](src/content/docs/vocabulary.md) is written so far. How the projects fit
+together comes next.
 
 Built with [Astro Starlight](https://starlight.astro.build). The pages are in
 `src/content/docs`.
