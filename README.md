@@ -1,5 +1,11 @@
 # Kodentuzo Manual
 
+Documentation for the Kodentuzo projects: how they fit together and the vocabulary they share.
+Nothing written yet.
+
+Built with [Astro Starlight](https://starlight.astro.build). The pages are in
+`src/content/docs`.
+
 ## License
 
 Copyright 2026 Ivan Vinski.
