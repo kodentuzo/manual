@@ -1,5 +1,7 @@
 # Kodentuzo Manual
 
+> Documentation for the Kodentuzo projects.
+
 Documentation for the Kodentuzo projects: how they fit together and the vocabulary they share.
 Nothing written yet.
 
